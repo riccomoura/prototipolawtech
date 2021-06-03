@@ -14,8 +14,6 @@ Protótipo de pesquisa constitucional baseado no artigo 5.
 ### - Implementado sistema de avaliação.
 
 ## Imagens do funcionamento:
-### - Código:
-![ Alt text](https://i.imgur.com/JG1JYKR.gif)
 ### - Saída:
 ![ Alt text](https://i.imgur.com/1Ny2pk4.gif)
 ### - Sistema de avaliação:
